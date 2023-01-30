@@ -1,0 +1,4 @@
+# Video-to-text-transcription-and-summarization
+
+Today’s world, where the demand for video content is rapidly increasing, the use of subtitles and text has become important for understanding the video. With increasing availability and use of video recording in contemporary empirical research in the social sciences, questions around how footage is to be transcribed have become urgent. The attempt is made so as to caption the videos played. With this effort one does not have to actually listen to the video for the contents of it or pause, type text and repeat. Additionally, the purpose also fulfils the needs of people with hearing impairments as well. Transcribing is essential for people who are deaf, visually challenged, who have reading and literacy problems, and can to those who are learning to read. Transcription of videos provide information for individuals who have difficulty understanding the speech and auditory components of the visual.
+
